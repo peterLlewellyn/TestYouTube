@@ -1,0 +1,9 @@
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\bin\Release\netstandard2.0\CommonBusinessLogic.deps.json
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\bin\Release\netstandard2.0\CommonBusinessLogic.dll
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\bin\Release\netstandard2.0\CommonBusinessLogic.pdb
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.csprojResolveAssemblyReference.cache
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.csproj.CoreCompileInputs.cache
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.AssemblyInfoInputs.cache
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.AssemblyInfo.cs
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.dll
+C:\coding\Humley\HumleySolution\CommonBusinessLogic\obj\Release\netstandard2.0\CommonBusinessLogic.pdb
